@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fernhfr
-- 👀 I’m interested in Data Science and Analytics, Python, Astronomy and Linux.
+- 👀 I’m interested in Data Science and Analytics and Astronomy
 - 🌱 I’m currently learning Python, R, PowerBI and SQL
 
 <!---
