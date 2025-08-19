@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fernhfr
 - 👀 I’m interested in Data Science and Analytics, Python, Astronomy and Linux.
-- 🌱 I’m currently learning Basic Python, PowerBI and SQL
+- 🌱 I’m currently learning Python, R, PowerBI and SQL
 
 <!---
 fernhfr/fernhfr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
